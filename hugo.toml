@@ -1,0 +1,4 @@
+baseURL = 'https://thomashuss.github.io/'
+languageCode = 'en-us'
+title = 'Thomas Huss'
+theme = 'hugo-bearblog'
